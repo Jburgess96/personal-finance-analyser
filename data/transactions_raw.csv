@@ -1,0 +1,576 @@
+date,description,category,amount,type
+2024-01-01,HMRC Tax Refund,Other,82.5,income
+2024-01-04,Freelance Payment,Freelance,503.21,income
+2024-01-06,Dentist,Health,51.25,expense
+2024-01-06,Broadband,Housing,1044.66,expense
+2024-01-06,Emergency Fund,Savings,183.36,expense
+2024-01-07,Sainsburys,Food,54.89,expense
+2024-01-07,Next,Clothing,98.48,expense
+2024-01-08,H&M,Clothing,45.0,expense
+2024-01-08,Takeaway,Entertainment,40.16,expense
+2024-01-08,Waitrose,Food,23.27,expense
+2024-01-09,Netflix,Entertainment,52.48,expense
+2024-01-10,Amazon Prime,Entertainment,41.06,expense
+2024-01-10,Primark,Clothing,68.12,expense
+2024-01-10,Gym Membership,Health,59.13,expense
+2024-01-12,GP Prescription,Health,42.36,expense
+2024-01-13,ASOS,Clothing,49.78,expense
+2024-01-13,Bank Interest,Other,94.97,income
+2024-01-14,Primark,Clothing,105.21,expense
+2024-01-15,Uber,Transport,29.55,expense
+2024-01-15,Takeaway,Entertainment,38.4,expense
+2024-01-15,Emergency Fund,Savings,165.8,expense
+2024-01-16,Tesco,Food,105.42,expense
+2024-01-16,MOT,Transport,32.4,expense
+2024-01-16,ISA Contribution,Savings,119.06,expense
+2024-01-17,Water Bill,Housing,976.58,expense
+2024-01-17,Takeaway,Entertainment,25.69,expense
+2024-01-17,Dining Out,Entertainment,52.76,expense
+2024-01-18,Haircut,Personal,47.92,expense
+2024-01-19,Car Insurance,Transport,137.77,expense
+2024-01-19,Takeaway,Entertainment,34.4,expense
+2024-01-20,Car Insurance,Transport,143.49,expense
+2024-01-20,Gas Bill,Housing,659.32,expense
+2024-01-20,Bank Interest,Other,87.05,income
+2024-01-21,Sainsburys,Food,91.85,expense
+2024-01-22,MOT,Transport,76.54,expense
+2024-01-23,Gym Membership,Health,37.93,expense
+2024-01-23,Savings Transfer,Savings,378.67,expense
+2024-01-24,Miscellaneous,Personal,25.32,expense
+2024-01-24,GP Prescription,Health,14.48,expense
+2024-01-24,Freelance Payment,Freelance,204.31,income
+2024-01-25,Monthly Salary,Salary,2200.0,income
+2024-01-28,Phone Bill,Personal,29.27,expense
+2024-01-28,Phone Bill,Personal,40.31,expense
+2024-01-29,Sainsburys,Food,84.19,expense
+2024-01-30,ASOS,Clothing,52.33,expense
+2024-01-30,Tesco,Food,57.28,expense
+2024-01-30,Haircut,Personal,35.3,expense
+2024-01-31,Petrol,Transport,35.69,expense
+2024-01-31,Phone Bill,Personal,44.35,expense
+2024-01-31,Co-op,Food,99.84,expense
+2024-02-03,Petrol,Transport,77.99,expense
+2024-02-04,Home Insurance,Housing,703.18,expense
+2024-02-04,Emergency Fund,Savings,377.96,expense
+2024-02-04,Amazon Purchase,Personal,24.04,expense
+2024-02-05,Water Bill,Housing,650.88,expense
+2024-02-05,National Rail,Transport,51.54,expense
+2024-02-05,Gas Bill,Housing,988.59,expense
+2024-02-06,TfL Oyster,Transport,144.51,expense
+2024-02-06,Asda,Food,22.19,expense
+2024-02-06,Lidl,Food,57.4,expense
+2024-02-07,Gas Bill,Housing,465.59,expense
+2024-02-08,Spotify,Entertainment,42.83,expense
+2024-02-08,Primark,Clothing,54.53,expense
+2024-02-09,Amazon Purchase,Personal,46.81,expense
+2024-02-09,Tesco,Food,63.12,expense
+2024-02-11,Spotify,Entertainment,56.53,expense
+2024-02-12,Next,Clothing,40.51,expense
+2024-02-13,Water Bill,Housing,1053.68,expense
+2024-02-13,Takeaway,Entertainment,13.39,expense
+2024-02-14,Uber,Transport,49.45,expense
+2024-02-14,Sainsburys,Food,92.95,expense
+2024-02-15,Netflix,Entertainment,12.8,expense
+2024-02-15,Gym Membership,Health,45.38,expense
+2024-02-16,Rent,Housing,666.85,expense
+2024-02-16,MOT,Transport,147.17,expense
+2024-02-17,ISA Contribution,Savings,102.9,expense
+2024-02-17,Asda,Food,72.29,expense
+2024-02-17,H&M,Clothing,91.83,expense
+2024-02-20,Boots Pharmacy,Health,34.76,expense
+2024-02-21,National Rail,Transport,131.04,expense
+2024-02-21,Petrol,Transport,13.47,expense
+2024-02-21,Nike,Clothing,124.29,expense
+2024-02-22,Spotify,Entertainment,48.94,expense
+2024-02-24,Dentist,Health,34.48,expense
+2024-02-25,Monthly Salary,Salary,2200.0,income
+2024-02-25,Boots Pharmacy,Health,56.2,expense
+2024-02-26,Aldi,Food,51.87,expense
+2024-02-26,ISA Contribution,Savings,394.34,expense
+2024-02-28,Netflix,Entertainment,13.64,expense
+2024-02-28,Car Insurance,Transport,144.75,expense
+2024-02-29,ISA Contribution,Savings,395.27,expense
+2024-02-29,Waitrose,Food,109.45,expense
+2024-03-03,Nike,Clothing,29.1,expense
+2024-03-04,ASOS,Clothing,113.57,expense
+2024-03-04,Dining Out,Entertainment,24.08,expense
+2024-03-05,Car Insurance,Transport,89.67,expense
+2024-03-05,Dining Out,Entertainment,14.62,expense
+2024-03-05,ISA Contribution,Savings,382.11,expense
+2024-03-07,ISA Contribution,Savings,282.0,expense
+2024-03-08,Phone Bill,Personal,28.0,expense
+2024-03-08,MOT,Transport,21.87,expense
+2024-03-08,ASOS,Clothing,126.4,expense
+2024-03-09,GP Prescription,Health,20.31,expense
+2024-03-09,Home Insurance,Housing,1187.15,expense
+2024-03-11,Emergency Fund,Savings,219.9,expense
+2024-03-14,MOT,Transport,82.51,expense
+2024-03-15,Co-op,Food,29.0,expense
+2024-03-16,ISA Contribution,Savings,233.77,expense
+2024-03-16,Miscellaneous,Personal,41.68,expense
+2024-03-17,Amazon Purchase,Personal,38.83,expense
+2024-03-17,Dining Out,Entertainment,33.2,expense
+2024-03-17,Gym Membership,Health,40.79,expense
+2024-03-18,Cinema,Entertainment,24.62,expense
+2024-03-19,National Rail,Transport,63.62,expense
+2024-03-20,Waitrose,Food,57.8,expense
+2024-03-21,Broadband,Housing,1104.53,expense
+2024-03-21,ISA Contribution,Savings,383.82,expense
+2024-03-21,Home Insurance,Housing,1066.31,expense
+2024-03-22,Council Tax,Housing,638.89,expense
+2024-03-22,Emergency Fund,Savings,261.47,expense
+2024-03-22,Dentist,Health,25.36,expense
+2024-03-24,Petrol,Transport,138.74,expense
+2024-03-24,Electricity Bill,Housing,873.51,expense
+2024-03-24,Rent,Housing,914.2,expense
+2024-03-25,Nike,Clothing,56.17,expense
+2024-03-25,TfL Oyster,Transport,46.42,expense
+2024-03-25,Monthly Salary,Salary,2200.0,income
+2024-03-25,Primark,Clothing,79.11,expense
+2024-03-26,Netflix,Entertainment,32.46,expense
+2024-03-26,Council Tax,Housing,579.38,expense
+2024-03-26,Tesco,Food,94.19,expense
+2024-03-27,Gas Bill,Housing,521.91,expense
+2024-03-29,Amazon Purchase,Personal,39.51,expense
+2024-03-31,Netflix,Entertainment,38.09,expense
+2024-04-01,ISA Contribution,Savings,159.5,expense
+2024-04-01,Boots Pharmacy,Health,58.8,expense
+2024-04-01,Takeaway,Entertainment,39.22,expense
+2024-04-03,Haircut,Personal,24.51,expense
+2024-04-03,ASOS,Clothing,85.77,expense
+2024-04-03,ASOS,Clothing,130.44,expense
+2024-04-04,Dining Out,Entertainment,50.03,expense
+2024-04-04,eBay,Personal,24.6,expense
+2024-04-04,Petrol,Transport,34.66,expense
+2024-04-05,Aldi,Food,107.57,expense
+2024-04-05,Primark,Clothing,128.0,expense
+2024-04-06,Emergency Fund,Savings,108.61,expense
+2024-04-06,Primark,Clothing,83.38,expense
+2024-04-06,Next,Clothing,64.24,expense
+2024-04-07,Gas Bill,Housing,1158.45,expense
+2024-04-07,Lidl,Food,90.61,expense
+2024-04-08,eBay,Personal,25.17,expense
+2024-04-08,HMRC Tax Refund,Other,133.23,income
+2024-04-09,Takeaway,Entertainment,38.24,expense
+2024-04-10,Nike,Clothing,55.22,expense
+2024-04-10,ISA Contribution,Savings,265.12,expense
+2024-04-12,Asda,Food,35.11,expense
+2024-04-12,Amazon Purchase,Personal,37.61,expense
+2024-04-13,Lidl,Food,46.11,expense
+2024-04-13,Primark,Clothing,59.29,expense
+2024-04-14,Netflix,Entertainment,58.66,expense
+2024-04-15,Haircut,Personal,44.27,expense
+2024-04-16,Haircut,Personal,42.0,expense
+2024-04-16,eBay,Personal,20.33,expense
+2024-04-16,Council Tax,Housing,1152.85,expense
+2024-04-19,Lidl,Food,27.44,expense
+2024-04-19,ISA Contribution,Savings,278.84,expense
+2024-04-20,eBay,Personal,18.38,expense
+2024-04-20,Emergency Fund,Savings,270.59,expense
+2024-04-20,Gas Bill,Housing,1168.09,expense
+2024-04-21,Gym Membership,Health,56.23,expense
+2024-04-22,Asda,Food,15.28,expense
+2024-04-23,Netflix,Entertainment,20.04,expense
+2024-04-23,Takeaway,Entertainment,52.7,expense
+2024-04-23,Lidl,Food,112.01,expense
+2024-04-24,Savings Transfer,Savings,263.37,expense
+2024-04-25,TfL Oyster,Transport,18.35,expense
+2024-04-25,Monthly Salary,Salary,2200.0,income
+2024-04-25,Dining Out,Entertainment,46.95,expense
+2024-04-26,Takeaway,Entertainment,28.93,expense
+2024-04-26,Haircut,Personal,26.09,expense
+2024-04-27,Haircut,Personal,31.91,expense
+2024-04-27,ISA Contribution,Savings,196.7,expense
+2024-04-27,Netflix,Entertainment,12.75,expense
+2024-04-29,Broadband,Housing,1005.02,expense
+2024-04-29,Miscellaneous,Personal,34.32,expense
+2024-04-30,ISA Contribution,Savings,344.27,expense
+2024-05-01,Nike,Clothing,63.33,expense
+2024-05-01,Asda,Food,49.63,expense
+2024-05-01,Amazon Purchase,Personal,34.82,expense
+2024-05-03,Cinema,Entertainment,14.03,expense
+2024-05-03,ISA Contribution,Savings,347.48,expense
+2024-05-03,Bank Interest,Other,35.18,income
+2024-05-04,eBay,Personal,39.2,expense
+2024-05-04,Gym Membership,Health,48.45,expense
+2024-05-05,Gas Bill,Housing,726.39,expense
+2024-05-05,GP Prescription,Health,31.75,expense
+2024-05-05,Haircut,Personal,6.3,expense
+2024-05-08,Amazon Purchase,Personal,27.9,expense
+2024-05-09,Phone Bill,Personal,25.56,expense
+2024-05-09,Petrol,Transport,36.69,expense
+2024-05-09,TfL Oyster,Transport,48.67,expense
+2024-05-10,H&M,Clothing,54.73,expense
+2024-05-10,Council Tax,Housing,980.84,expense
+2024-05-10,Phone Bill,Personal,25.09,expense
+2024-05-11,Emergency Fund,Savings,379.86,expense
+2024-05-11,GP Prescription,Health,50.03,expense
+2024-05-12,Council Tax,Housing,995.76,expense
+2024-05-12,Emergency Fund,Savings,396.52,expense
+2024-05-12,Petrol,Transport,145.08,expense
+2024-05-13,Co-op,Food,25.47,expense
+2024-05-13,Haircut,Personal,37.51,expense
+2024-05-14,Co-op,Food,97.06,expense
+2024-05-15,Emergency Fund,Savings,288.04,expense
+2024-05-15,Marks and Spencer,Food,104.5,expense
+2024-05-15,Miscellaneous,Personal,6.62,expense
+2024-05-16,Sainsburys,Food,61.59,expense
+2024-05-16,Boots Pharmacy,Health,40.38,expense
+2024-05-17,Consulting Fee,Freelance,415.08,income
+2024-05-18,National Rail,Transport,84.36,expense
+2024-05-18,National Rail,Transport,34.51,expense
+2024-05-18,ISA Contribution,Savings,304.94,expense
+2024-05-19,Dentist,Health,54.65,expense
+2024-05-21,Co-op,Food,114.25,expense
+2024-05-21,Takeaway,Entertainment,58.03,expense
+2024-05-21,Takeaway,Entertainment,36.42,expense
+2024-05-22,Spotify,Entertainment,59.97,expense
+2024-05-22,Haircut,Personal,15.67,expense
+2024-05-22,H&M,Clothing,58.46,expense
+2024-05-24,Netflix,Entertainment,37.43,expense
+2024-05-24,Gas Bill,Housing,996.14,expense
+2024-05-24,Spotify,Entertainment,39.57,expense
+2024-05-25,Monthly Salary,Salary,2200.0,income
+2024-05-25,Takeaway,Entertainment,47.29,expense
+2024-05-26,Tesco,Food,47.44,expense
+2024-05-27,TfL Oyster,Transport,137.35,expense
+2024-05-27,Nike,Clothing,42.83,expense
+2024-05-28,Spotify,Entertainment,21.36,expense
+2024-05-28,Amazon Purchase,Personal,38.6,expense
+2024-05-31,ISA Contribution,Savings,209.73,expense
+2024-06-03,ISA Contribution,Savings,382.09,expense
+2024-06-03,Lidl,Food,64.51,expense
+2024-06-04,Amazon Purchase,Personal,34.22,expense
+2024-06-04,Boots Pharmacy,Health,54.48,expense
+2024-06-06,Haircut,Personal,9.37,expense
+2024-06-06,Petrol,Transport,73.51,expense
+2024-06-07,Petrol,Transport,101.69,expense
+2024-06-07,Miscellaneous,Personal,23.37,expense
+2024-06-07,Netflix,Entertainment,43.89,expense
+2024-06-08,Gym Membership,Health,16.95,expense
+2024-06-08,H&M,Clothing,137.22,expense
+2024-06-08,ASOS,Clothing,71.76,expense
+2024-06-10,GP Prescription,Health,65.09,expense
+2024-06-10,Lidl,Food,82.38,expense
+2024-06-10,Rent,Housing,1029.44,expense
+2024-06-11,GP Prescription,Health,33.0,expense
+2024-06-13,Car Insurance,Transport,45.09,expense
+2024-06-15,Optician,Health,32.66,expense
+2024-06-15,Uber,Transport,17.34,expense
+2024-06-17,Amazon Purchase,Personal,28.1,expense
+2024-06-17,Co-op,Food,67.9,expense
+2024-06-17,Water Bill,Housing,1026.58,expense
+2024-06-18,Haircut,Personal,7.74,expense
+2024-06-18,eBay,Personal,24.18,expense
+2024-06-19,Sainsburys,Food,48.82,expense
+2024-06-19,TfL Oyster,Transport,27.67,expense
+2024-06-19,Nike,Clothing,149.3,expense
+2024-06-20,Dentist,Health,33.73,expense
+2024-06-20,Lidl,Food,60.16,expense
+2024-06-20,Savings Transfer,Savings,337.93,expense
+2024-06-21,Marks and Spencer,Food,59.81,expense
+2024-06-21,Cinema,Entertainment,57.59,expense
+2024-06-21,Haircut,Personal,9.11,expense
+2024-06-22,Marks and Spencer,Food,100.24,expense
+2024-06-22,Gas Bill,Housing,1165.3,expense
+2024-06-22,ASOS,Clothing,73.41,expense
+2024-06-23,Council Tax,Housing,880.33,expense
+2024-06-23,ASOS,Clothing,95.13,expense
+2024-06-23,GP Prescription,Health,55.97,expense
+2024-06-25,Monthly Salary,Salary,2200.0,income
+2024-06-25,Aldi,Food,75.28,expense
+2024-06-25,ISA Contribution,Savings,392.36,expense
+2024-06-27,Home Insurance,Housing,618.62,expense
+2024-06-27,Cinema,Entertainment,26.25,expense
+2024-06-28,Savings Transfer,Savings,142.56,expense
+2024-06-30,Emergency Fund,Savings,236.09,expense
+2024-07-01,Home Insurance,Housing,525.93,expense
+2024-07-01,H&M,Clothing,97.51,expense
+2024-07-03,Marks and Spencer,Food,60.14,expense
+2024-07-03,Miscellaneous,Personal,24.89,expense
+2024-07-03,Spotify,Entertainment,47.26,expense
+2024-07-04,Netflix,Entertainment,19.47,expense
+2024-07-04,Rent,Housing,563.54,expense
+2024-07-04,GP Prescription,Health,63.49,expense
+2024-07-05,HMRC Tax Refund,Other,56.17,income
+2024-07-06,ASOS,Clothing,71.62,expense
+2024-07-07,Electricity Bill,Housing,1136.93,expense
+2024-07-07,H&M,Clothing,75.81,expense
+2024-07-07,ISA Contribution,Savings,292.04,expense
+2024-07-08,Council Tax,Housing,537.5,expense
+2024-07-08,Amazon Purchase,Personal,8.97,expense
+2024-07-08,Lidl,Food,60.75,expense
+2024-07-10,Primark,Clothing,63.3,expense
+2024-07-10,TfL Oyster,Transport,81.47,expense
+2024-07-11,Next,Clothing,114.56,expense
+2024-07-12,Boots Pharmacy,Health,20.25,expense
+2024-07-13,Asda,Food,114.89,expense
+2024-07-14,Miscellaneous,Personal,33.93,expense
+2024-07-14,Next,Clothing,39.62,expense
+2024-07-14,Co-op,Food,61.43,expense
+2024-07-15,Council Tax,Housing,805.87,expense
+2024-07-15,Amazon Prime,Entertainment,31.5,expense
+2024-07-16,Sainsburys,Food,79.58,expense
+2024-07-16,Emergency Fund,Savings,274.1,expense
+2024-07-18,H&M,Clothing,81.83,expense
+2024-07-20,Asda,Food,19.11,expense
+2024-07-20,eBay,Personal,28.58,expense
+2024-07-21,Next,Clothing,70.36,expense
+2024-07-21,H&M,Clothing,26.81,expense
+2024-07-22,Marks and Spencer,Food,24.92,expense
+2024-07-22,Emergency Fund,Savings,175.6,expense
+2024-07-23,ASOS,Clothing,95.76,expense
+2024-07-24,Savings Transfer,Savings,278.51,expense
+2024-07-24,Takeaway,Entertainment,44.32,expense
+2024-07-25,Monthly Salary,Salary,2200.0,income
+2024-07-25,ISA Contribution,Savings,337.5,expense
+2024-07-25,MOT,Transport,108.4,expense
+2024-07-27,ASOS,Clothing,67.14,expense
+2024-07-27,National Rail,Transport,57.84,expense
+2024-07-27,Phone Bill,Personal,15.19,expense
+2024-07-31,Savings Transfer,Savings,148.67,expense
+2024-08-01,Haircut,Personal,23.49,expense
+2024-08-02,Miscellaneous,Personal,17.82,expense
+2024-08-03,Optician,Health,26.74,expense
+2024-08-03,Phone Bill,Personal,21.55,expense
+2024-08-03,eBay,Personal,39.62,expense
+2024-08-04,National Rail,Transport,122.18,expense
+2024-08-04,Uber,Transport,17.31,expense
+2024-08-04,Amazon Purchase,Personal,29.95,expense
+2024-08-06,Amazon Prime,Entertainment,55.08,expense
+2024-08-07,ISA Contribution,Savings,212.19,expense
+2024-08-07,Lidl,Food,100.75,expense
+2024-08-07,ASOS,Clothing,73.94,expense
+2024-08-11,National Rail,Transport,15.36,expense
+2024-08-11,Phone Bill,Personal,39.15,expense
+2024-08-14,Savings Transfer,Savings,332.85,expense
+2024-08-15,Gift Received,Other,242.29,income
+2024-08-16,Sainsburys,Food,102.85,expense
+2024-08-16,Miscellaneous,Personal,29.12,expense
+2024-08-16,GP Prescription,Health,30.39,expense
+2024-08-16,HMRC Tax Refund,Other,179.79,income
+2024-08-17,Marks and Spencer,Food,22.11,expense
+2024-08-19,Next,Clothing,117.15,expense
+2024-08-19,Water Bill,Housing,709.51,expense
+2024-08-19,ASOS,Clothing,64.82,expense
+2024-08-21,Primark,Clothing,127.95,expense
+2024-08-21,TfL Oyster,Transport,59.32,expense
+2024-08-22,Broadband,Housing,559.58,expense
+2024-08-22,Gift Received,Other,131.5,income
+2024-08-22,National Rail,Transport,18.83,expense
+2024-08-22,Haircut,Personal,18.2,expense
+2024-08-23,Netflix,Entertainment,47.17,expense
+2024-08-23,Gym Membership,Health,34.99,expense
+2024-08-23,Broadband,Housing,924.59,expense
+2024-08-24,Emergency Fund,Savings,322.99,expense
+2024-08-24,Emergency Fund,Savings,392.12,expense
+2024-08-25,Car Insurance,Transport,51.13,expense
+2024-08-25,Waitrose,Food,23.29,expense
+2024-08-25,H&M,Clothing,54.67,expense
+2024-08-25,Monthly Salary,Salary,2200.0,income
+2024-08-26,Cinema,Entertainment,31.19,expense
+2024-08-26,Savings Transfer,Savings,306.93,expense
+2024-08-28,Emergency Fund,Savings,291.84,expense
+2024-08-28,Rent,Housing,936.95,expense
+2024-08-29,Home Insurance,Housing,1078.94,expense
+2024-08-30,Gas Bill,Housing,522.75,expense
+2024-08-30,Next,Clothing,69.77,expense
+2024-08-30,Home Insurance,Housing,453.79,expense
+2024-08-31,Nike,Clothing,119.2,expense
+2024-08-31,Car Insurance,Transport,61.37,expense
+2024-09-01,Boots Pharmacy,Health,11.81,expense
+2024-09-01,Petrol,Transport,82.48,expense
+2024-09-03,Phone Bill,Personal,49.84,expense
+2024-09-03,Takeaway,Entertainment,55.66,expense
+2024-09-06,MOT,Transport,109.34,expense
+2024-09-06,Aldi,Food,108.59,expense
+2024-09-06,Marks and Spencer,Food,85.12,expense
+2024-09-07,H&M,Clothing,49.15,expense
+2024-09-08,Dentist,Health,11.84,expense
+2024-09-09,Miscellaneous,Personal,10.84,expense
+2024-09-09,Sainsburys,Food,47.48,expense
+2024-09-10,Emergency Fund,Savings,347.0,expense
+2024-09-10,Asda,Food,117.1,expense
+2024-09-10,Co-op,Food,63.91,expense
+2024-09-11,National Rail,Transport,70.57,expense
+2024-09-13,Spotify,Entertainment,16.42,expense
+2024-09-14,H&M,Clothing,136.34,expense
+2024-09-15,Optician,Health,29.21,expense
+2024-09-15,Dining Out,Entertainment,35.74,expense
+2024-09-16,National Rail,Transport,102.22,expense
+2024-09-17,Broadband,Housing,1091.02,expense
+2024-09-17,Tesco,Food,114.6,expense
+2024-09-18,Electricity Bill,Housing,1111.2,expense
+2024-09-18,Optician,Health,39.16,expense
+2024-09-19,Phone Bill,Personal,41.21,expense
+2024-09-19,Emergency Fund,Savings,236.06,expense
+2024-09-20,eBay,Personal,26.79,expense
+2024-09-21,Next,Clothing,115.45,expense
+2024-09-22,Aldi,Food,62.21,expense
+2024-09-22,Uber,Transport,82.1,expense
+2024-09-22,Marks and Spencer,Food,40.38,expense
+2024-09-24,Primark,Clothing,119.21,expense
+2024-09-24,Uber,Transport,140.73,expense
+2024-09-24,Savings Transfer,Savings,388.81,expense
+2024-09-25,Monthly Salary,Salary,2200.0,income
+2024-09-25,Amazon Purchase,Personal,27.38,expense
+2024-09-25,Waitrose,Food,68.07,expense
+2024-09-25,GP Prescription,Health,50.83,expense
+2024-09-25,Bank Interest,Other,187.31,income
+2024-09-26,Waitrose,Food,29.06,expense
+2024-09-26,Takeaway,Entertainment,27.02,expense
+2024-09-26,Dining Out,Entertainment,8.43,expense
+2024-09-28,H&M,Clothing,57.52,expense
+2024-09-29,Dining Out,Entertainment,43.38,expense
+2024-09-29,Asda,Food,117.38,expense
+2024-09-29,Emergency Fund,Savings,338.47,expense
+2024-09-30,National Rail,Transport,94.34,expense
+2024-09-30,ISA Contribution,Savings,112.08,expense
+2024-09-30,Bank Interest,Other,165.41,income
+2024-10-01,Uber,Transport,140.39,expense
+2024-10-02,Council Tax,Housing,664.99,expense
+2024-10-02,Miscellaneous,Personal,18.49,expense
+2024-10-02,Dining Out,Entertainment,25.49,expense
+2024-10-03,Takeaway,Entertainment,53.35,expense
+2024-10-03,Gas Bill,Housing,779.67,expense
+2024-10-03,Boots Pharmacy,Health,50.85,expense
+2024-10-04,MOT,Transport,43.91,expense
+2024-10-04,Lidl,Food,16.99,expense
+2024-10-04,Nike,Clothing,39.69,expense
+2024-10-05,Haircut,Personal,36.76,expense
+2024-10-05,Optician,Health,32.75,expense
+2024-10-05,Miscellaneous,Personal,21.96,expense
+2024-10-06,H&M,Clothing,66.06,expense
+2024-10-06,Dining Out,Entertainment,33.18,expense
+2024-10-06,Gym Membership,Health,49.07,expense
+2024-10-07,Takeaway,Entertainment,18.78,expense
+2024-10-07,Amazon Purchase,Personal,26.59,expense
+2024-10-08,Emergency Fund,Savings,345.51,expense
+2024-10-08,Netflix,Entertainment,37.82,expense
+2024-10-09,Netflix,Entertainment,22.96,expense
+2024-10-10,Amazon Purchase,Personal,38.63,expense
+2024-10-10,GP Prescription,Health,67.96,expense
+2024-10-11,TfL Oyster,Transport,96.19,expense
+2024-10-11,GP Prescription,Health,13.55,expense
+2024-10-12,Boots Pharmacy,Health,17.01,expense
+2024-10-13,Petrol,Transport,101.4,expense
+2024-10-13,Asda,Food,15.54,expense
+2024-10-13,eBay,Personal,34.27,expense
+2024-10-14,Next,Clothing,103.97,expense
+2024-10-14,Lidl,Food,71.19,expense
+2024-10-16,Savings Transfer,Savings,380.18,expense
+2024-10-16,Bank Interest,Other,72.17,income
+2024-10-17,Marks and Spencer,Food,44.88,expense
+2024-10-17,Rent,Housing,638.71,expense
+2024-10-18,Bank Interest,Other,178.98,income
+2024-10-18,Amazon Purchase,Personal,37.34,expense
+2024-10-18,Boots Pharmacy,Health,33.15,expense
+2024-10-18,Car Insurance,Transport,75.52,expense
+2024-10-19,Car Insurance,Transport,129.86,expense
+2024-10-20,ASOS,Clothing,72.11,expense
+2024-10-20,Asda,Food,118.08,expense
+2024-10-20,Amazon Purchase,Personal,47.11,expense
+2024-10-20,HMRC Tax Refund,Other,145.09,income
+2024-10-21,Council Tax,Housing,922.95,expense
+2024-10-21,Next,Clothing,95.72,expense
+2024-10-23,Spotify,Entertainment,29.08,expense
+2024-10-23,Takeaway,Entertainment,14.11,expense
+2024-10-23,Cinema,Entertainment,39.96,expense
+2024-10-24,Phone Bill,Personal,25.47,expense
+2024-10-25,Miscellaneous,Personal,41.09,expense
+2024-10-25,Monthly Salary,Salary,2200.0,income
+2024-10-25,ISA Contribution,Savings,264.77,expense
+2024-10-26,Co-op,Food,70.46,expense
+2024-10-28,National Rail,Transport,55.94,expense
+2024-10-30,Co-op,Food,99.91,expense
+2024-10-30,Phone Bill,Personal,28.1,expense
+2024-10-30,Miscellaneous,Personal,7.6,expense
+2024-10-31,Electricity Bill,Housing,603.57,expense
+2024-10-31,Water Bill,Housing,574.32,expense
+2024-11-01,ASOS,Clothing,90.35,expense
+2024-11-01,Rent,Housing,1188.91,expense
+2024-11-01,Haircut,Personal,17.92,expense
+2024-11-02,Emergency Fund,Savings,397.86,expense
+2024-11-03,Savings Transfer,Savings,304.82,expense
+2024-11-03,MOT,Transport,130.44,expense
+2024-11-03,Asda,Food,119.25,expense
+2024-11-04,Boots Pharmacy,Health,62.93,expense
+2024-11-05,ISA Contribution,Savings,213.78,expense
+2024-11-05,GP Prescription,Health,42.24,expense
+2024-11-05,Uber,Transport,36.39,expense
+2024-11-06,Gift Received,Other,234.49,income
+2024-11-12,Boots Pharmacy,Health,19.81,expense
+2024-11-13,H&M,Clothing,97.73,expense
+2024-11-14,Gym Membership,Health,71.34,expense
+2024-11-14,Dentist,Health,31.04,expense
+2024-11-15,ISA Contribution,Savings,248.69,expense
+2024-11-16,Nike,Clothing,73.07,expense
+2024-11-16,Amazon Prime,Entertainment,17.56,expense
+2024-11-16,Phone Bill,Personal,43.22,expense
+2024-11-17,Haircut,Personal,30.31,expense
+2024-11-18,Savings Transfer,Savings,176.5,expense
+2024-11-20,Lidl,Food,20.41,expense
+2024-11-20,ISA Contribution,Savings,281.49,expense
+2024-11-20,Freelance Payment,Freelance,682.79,income
+2024-11-21,Phone Bill,Personal,44.13,expense
+2024-11-23,Co-op,Food,111.02,expense
+2024-11-24,Savings Transfer,Savings,265.62,expense
+2024-11-25,Cinema,Entertainment,26.7,expense
+2024-11-25,eBay,Personal,9.44,expense
+2024-11-25,Monthly Salary,Salary,2200.0,income
+2024-11-25,Miscellaneous,Personal,34.19,expense
+2024-11-26,Primark,Clothing,68.19,expense
+2024-11-26,Savings Transfer,Savings,268.76,expense
+2024-11-26,GP Prescription,Health,11.14,expense
+2024-11-27,Spotify,Entertainment,18.2,expense
+2024-11-27,Dentist,Health,49.89,expense
+2024-11-27,Dentist,Health,48.54,expense
+2024-11-28,eBay,Personal,12.57,expense
+2024-11-28,Amazon Prime,Entertainment,58.26,expense
+2024-11-29,MOT,Transport,86.52,expense
+2024-12-03,MOT,Transport,42.4,expense
+2024-12-03,TfL Oyster,Transport,40.62,expense
+2024-12-03,Amazon Purchase,Personal,7.72,expense
+2024-12-04,Haircut,Personal,5.3,expense
+2024-12-04,Savings Transfer,Savings,105.02,expense
+2024-12-04,Dining Out,Entertainment,58.83,expense
+2024-12-04,HMRC Tax Refund,Other,49.96,income
+2024-12-06,Optician,Health,46.85,expense
+2024-12-07,Emergency Fund,Savings,269.5,expense
+2024-12-07,Savings Transfer,Savings,211.92,expense
+2024-12-08,Takeaway,Entertainment,51.06,expense
+2024-12-10,ISA Contribution,Savings,242.8,expense
+2024-12-10,Water Bill,Housing,537.11,expense
+2024-12-10,eBay,Personal,34.02,expense
+2024-12-13,Netflix,Entertainment,56.06,expense
+2024-12-13,Dining Out,Entertainment,37.3,expense
+2024-12-13,Home Insurance,Housing,1143.01,expense
+2024-12-14,MOT,Transport,124.93,expense
+2024-12-15,Car Insurance,Transport,43.67,expense
+2024-12-15,ISA Contribution,Savings,368.96,expense
+2024-12-16,Marks and Spencer,Food,20.64,expense
+2024-12-18,ASOS,Clothing,102.44,expense
+2024-12-18,eBay,Personal,15.27,expense
+2024-12-18,Emergency Fund,Savings,155.72,expense
+2024-12-19,Sainsburys,Food,43.14,expense
+2024-12-19,ISA Contribution,Savings,335.17,expense
+2024-12-19,Aldi,Food,98.8,expense
+2024-12-20,Next,Clothing,33.85,expense
+2024-12-20,Council Tax,Housing,755.79,expense
+2024-12-20,Netflix,Entertainment,14.89,expense
+2024-12-21,Savings Transfer,Savings,107.88,expense
+2024-12-21,H&M,Clothing,32.1,expense
+2024-12-21,Nike,Clothing,21.6,expense
+2024-12-23,MOT,Transport,63.3,expense
+2024-12-24,Amazon Prime,Entertainment,15.59,expense
+2024-12-24,Petrol,Transport,48.63,expense
+2024-12-25,Monthly Salary,Salary,2200.0,income
+2024-12-26,Miscellaneous,Personal,32.75,expense
+2024-12-27,Netflix,Entertainment,57.34,expense
+2024-12-28,Nike,Clothing,63.52,expense
+2024-12-28,Uber,Transport,54.89,expense
+2024-12-28,Dentist,Health,31.99,expense
+2024-12-29,Takeaway,Entertainment,44.14,expense
+2024-12-29,Miscellaneous,Personal,40.19,expense
+2024-12-30,Emergency Fund,Savings,134.17,expense
+2024-12-30,Optician,Health,79.81,expense
